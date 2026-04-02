@@ -29,5 +29,6 @@
   },
   "devDependencies": {
     "eslint": "^9.17.0"
-  }
+  },
+  "description": "next — a JavaScript-powered project with useful, real-world functionality."
 }
